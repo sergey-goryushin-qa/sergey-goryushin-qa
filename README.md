@@ -4,7 +4,6 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?&theme=gotham&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=sergey-goryushin-qa)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?&theme=gotham&layout=donut&langs_count=6&hide_progress=true&username=sergey-goryushin-qa)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
